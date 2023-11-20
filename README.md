@@ -143,8 +143,10 @@ Execute the program using runserver command.
     </body>
   </html>
 ```
-## OUTPUT
-![image](https://github.com/plotswag/slot/assets/145822344/8ead37c4-6a21-41ee-ae5d-deb3d82fca2b)
+## OUTPUT:
+![Screenshot (12)](https://github.com/plotswag/slot/assets/145822344/0ef0b8fe-58dc-47ee-8760-85ecf6b6d438)
+
+
 ## HTML VALIDATOR
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
